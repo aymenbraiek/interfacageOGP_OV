@@ -30,7 +30,10 @@ public class DataSourceConfig extends WebMvcConfigurerAdapter {
 	JdbcTemplate jdbcTemplate_Init;
 	@Autowired
 	JdbcTemplate jdbcTemplate;
+/**
 
+add some thing from master branch
+*/
 
 
 	@Autowired
