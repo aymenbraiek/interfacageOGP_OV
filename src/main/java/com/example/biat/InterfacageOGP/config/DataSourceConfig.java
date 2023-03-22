@@ -31,7 +31,9 @@ public class DataSourceConfig extends WebMvcConfigurerAdapter {
 	@Autowired
 	JdbcTemplate jdbcTemplate;
 
-
+/**
+ * add some thing here to get conflit with master 
+ */
 
 	@Autowired
 	JdbcTemplate jdbcTemplate_InitDynamic;
